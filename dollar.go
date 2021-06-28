@@ -6,7 +6,7 @@ import (
 )
 
 const dollarCSV = `
-Command,3.6,4.0
+Command,3.6,4.0,4.4
 $all,Yes,Yes
 $elemMatch,Yes,Yes
 $size,Yes,Yes
